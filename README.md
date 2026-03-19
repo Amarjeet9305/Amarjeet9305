@@ -1,7 +1,7 @@
 <!-- 🌈 Gradient Header -->
 
 <h1 align="center">Hi 👋, I'm Amarjeet</h1>
-<h3 align="center">🚀 Full Stack Developer | AI/ML Enthusiast | Open Source Contributor</h3>
+<h3 align="center">🚀 Data Science Engineer | AI/ML Enthusiast | Open Source Contributor</h3>
 
 <!-- 🎯 Typing Animation -->
 
