@@ -62,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/Amarjeet9305">
+  <a href="https://www.linkedin.com/in/amar-jeet-977801211/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:amarjeet9305@gmail.com">
+  <a href="mailto:amarjeet.chaudhary.cs@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
