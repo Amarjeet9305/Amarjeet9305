@@ -72,7 +72,6 @@
     <img
         src="https://github.com/user-attachments/assets/258709f2-a509-4184-ba21-265b0fdecc81"
         alt="Instagram"
-        width="100"
     >
 </a>
  
