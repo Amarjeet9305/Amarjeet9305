@@ -68,6 +68,9 @@
   <a href="mailto:amarjeet.chaudhary.cs@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+  <a href="https://www.instagram.com/amarjeetchaudhary243?igsh=ZnZjOW1ucHE5dzN6/">
+    <img src="<img width="5001" height="5001" alt="image" src="https://github.com/user-attachments/assets/258709f2-a509-4184-ba21-265b0fdecc81" />"
+  </a>
 </p>
 
 ---
